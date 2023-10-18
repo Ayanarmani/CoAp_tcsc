@@ -1,4 +1,4 @@
-# Coap_tcsc
+# CoAp_tcsc
 
 The Contiki Operating System
 ============================
